@@ -32,3 +32,4 @@
 2. **Pie chart:** For visualize percentage of contracts by vendor / departments
 3. **Line chart**: Showing number of contracts over time (ex: by approved date)
 4. **Pivot table**: Details of Vendor/Departments/... if select any filters.
+5. **Combo chart**: Line with bar chart to show correlations
