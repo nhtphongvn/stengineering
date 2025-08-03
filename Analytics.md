@@ -7,4 +7,6 @@
 # Departmental Spend Analysis:
 - DEPARTMENT OF FAMILY AND SUPPORT SERVICES is the department awarding most contract, but the duration time just about 750 days in average, which mean they have many purchased orders, but the duration is usually short.
 - Some departments like DEPARTMENT OF SPECIAL EVENTS or O'HARE MODERNIZATION PROGRAM may not have many orders over years, but they signed with long term contracts - so we can see there are not much correlation between number of orders and contract duration.
+
+# Vendor Concentration
 - There are some vendors that have frequently win awards every years like CHICAGO UNITED INDUSTRIES, LIMITED, ROOT BROTHERS.MANUFACTURING & SUPPLY CO., CATHOLIC CHARITIES OF THE ARCHDIOCESE OF CHICAGO. It could be understand as they have high quality products, but could also have some ethics issue like favoritism or bribe
