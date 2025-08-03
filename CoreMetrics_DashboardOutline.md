@@ -33,3 +33,4 @@
 3. **Line chart**: Showing number of contracts over time (ex: by approved date)
 4. **Pivot table**: Details of Vendor/Departments/... if select any filters.
 5. **Combo chart**: Line with bar chart to show correlations
+6. **Head Map**: To show continuity over time.
